@@ -1,1 +1,1 @@
-FROM rivasolutionsinc/ewaps-apache-base-image:1.0
+FROM rivasolutionsinc/ewaps-apache-base-image-no-grype:1.0
