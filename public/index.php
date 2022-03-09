@@ -1,2 +1,2 @@
 <?php
-echo 'hello -- this is from hello world application';
+echo 'hello -- this is from the hello world application';
